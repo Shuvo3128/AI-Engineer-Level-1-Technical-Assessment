@@ -23,11 +23,15 @@ Tools, Libraries, and Packages Used
 | FAISS                                  | Fast similarity search over document chunks|
 | `OpenAI GPT`                    | Language model for answer generation         |
 | `unstructured`                  | Optional PDF/text preprocessing                     |
+How to run  
+<img width="975" height="59" alt="image" src="https://github.com/user-attachments/assets/5d79be15-e32c-4151-a617-4bd260d64d39" />
+Just upload pdf file for run this project
+
 Sample Queries and Outputs:
 Bangla Queries:
 | প্রশ্ন                                                                                              | উত্তর          |
 | ------------------------------------------------------------------------   | ---------        |
-| অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?                    | শম্ভুনাথ। |
+| অনুপমের ভাষায় সুপুরুষ কাকে বলা হয়েছে?                    | শম্ভুনাথ। 
 | কাকে অনুপমের ভাগ্য দেবতা বলে উল্লেখ করা হয়েছে? | মামাকে।     |
 | বিয়ের সময় কল্যাণীর প্রকৃত বয়স কত ছিল?                     | ১৫ বছর।    |
 
