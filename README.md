@@ -1,6 +1,6 @@
 #  Simple Multilingual Retrieval-Augmented Generation (RAG) System
 
-# Please see full overview from this link: https://colab.research.google.com/drive/1fEPI-gmAE0gKBWToOH6Ly1rGPYy7JNWS?usp=sharing
+## Please see full overview from this link: https://colab.research.google.com/drive/1fEPI-gmAE0gKBWToOH6Ly1rGPYy7JNWS?usp=sharing
 
 This project implements a **Retrieval-Augmented Generation (RAG)** pipeline to answer **Bangla-language questions** from a scanned textbook — *HSC26 Bangla 1st Paper*. It combines OCR, text cleaning, vector search, and large language models to enable intelligent question answering.
 
